@@ -1,4 +1,2 @@
-.terraform
-terraform.tfstate
-terraform.tfstate.backup
-terraform_infrastructure_documentation.text
+week-1/.terraform
+week-2/.terraform
