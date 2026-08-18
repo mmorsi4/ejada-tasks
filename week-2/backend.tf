@@ -12,4 +12,3 @@ terraform {
     region           = "me-jeddah-1"
   }
 }
-
